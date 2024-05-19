@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**Rezamasiri/rezamasiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi im Reza Masiri 👋
+const me=[
+    FullName="Reza mohammadi masiri",
+    Age:17,
+    AboutMe="a front developer And I am developing a portfolio",
+    CriticalSkills="Html,Css,Sass,Tailwind,JavaScript,React"
+    Subskills="axios,ReactHookForm,Emmet,figma"
+    EducationalStatus="Currently studying in the 11th grade of computer science",
+    ContactMe={
+       "Telegram: :@lor003"
+       "Email":"RezamasiriWeb@gmail.com"
+    },
+  ]
