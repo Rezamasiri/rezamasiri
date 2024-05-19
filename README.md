@@ -8,7 +8,7 @@ const Me=[
     CriticalSkills="Html,Css,Sass,Tailwind,JavaScript,React"
     Subskills="axios,ReactHookForm,Emmet,figma"
     EducationalStatus="Currently studying in the 11th grade of computer science",
-    {
+    contactMe{
        Telegram: ":@lor003",
        Email:"RezamasiriWeb@gmail.com"
     },
