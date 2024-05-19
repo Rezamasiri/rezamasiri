@@ -9,8 +9,8 @@ const Me=[
     Subskills="axios,ReactHookForm,Emmet,figma"
     EducationalStatus="Currently studying in the 11th grade of computer science",
     ContactMe={
-       "Telegram: :@lor003"
-       "Email":"RezamasiriWeb@gmail.com"
+       Telegram: ":@lor003"
+       Email:"RezamasiriWeb@gmail.com"
     },
   ]
 ```
