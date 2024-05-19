@@ -1,6 +1,6 @@
 # Hi im Reza Masiri 👋
 ```js
-const me=[
+const Me=[
     FullName="Reza mohammadi masiri",
     Age:17,
     AboutMe="a front developer And I am developing a portfolio",
