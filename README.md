@@ -1,4 +1,4 @@
-<img src="./" align="center" />
+<img src="./img1.gif" align="center" />
 
 # Hi im Reza Masiri 👋
 
