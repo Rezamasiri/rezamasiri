@@ -6,8 +6,7 @@ Return {
     Age:17,
     AboutMe:"a front developer And I am developing a portfolio",
     CriticalSkills:"Html,Css,Sass,Tailwind,JavaScript,React",
-    Subskills:"axios,ReactHookForm,Emmet,figma",
-    EducationalStatus:"Currently studying in the 11th grade of computer science",
+    Subskills:"axios,ReactHookForm,Emmet,figma...",
     contactMe:{
        Telegram: ":@lor003",
        Email:"RezamasiriWeb@gmail.com"
