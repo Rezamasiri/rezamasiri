@@ -3,6 +3,7 @@
 ```js
 Return {
     FullName:"Reza mohammadi masiri",
+    Expertise:"frontEndDeveloper", 
     Age:17,
     AboutMe:"a front developer And I am developing a portfolio",
     CriticalSkills:"Html,Css,Sass,Tailwind,JavaScript,React",
