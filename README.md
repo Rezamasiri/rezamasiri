@@ -5,7 +5,7 @@ Return {
     FullName:"Reza mohammadi masiri",
     Expertise:"frontend developer", 
     Age:17,
-    AboutMe:"a front developer And I am developing a portfolio",
+    AboutMe:"a front developer and Developing skills",
     CriticalSkills:"Html,Css,Sass,Tailwind,JavaScript,React",
     Subskills:"axios,ReactHookForm,Emmet,figma...",
     contactMe:{
