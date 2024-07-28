@@ -6,7 +6,7 @@ Return {
     Expertise:"frontend developer", 
     Age:17,
     AboutMe:"a front developer and Developing skills",
-    CriticalSkills:"Html,Css,Sass,Tailwind,JavaScript,React",
+    CriticalSkills:"Html,Css,Sass,Tailwind,JavaScript,React,Zustand,",
     Subskills:"axios,ReactHookForm,Emmet,figma...",
     contactMe:{
        Telegram: ":@lor003",
